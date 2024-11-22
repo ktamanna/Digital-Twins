@@ -1,7 +1,7 @@
 - 👋 Hi, I’m tani
 - 👀 I’m interested in AI
-- I have recently completed MPhil in robotics simulation
-- 🌱 I’m currently learning Data Science
+- I have completed MPhil in robotics simulation
+- 🌱 I’m currently doing PhD at UTM
 - 💞️ I’m looking for new opportunities related to AI
 - 📫 How to reach me here- tamanna.kaonain@gmail.com
 
