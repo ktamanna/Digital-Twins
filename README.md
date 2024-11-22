@@ -6,6 +6,6 @@
 - 📫 How to reach me here- tamanna.kaonain@gmail.com
 
 <!---
-ktamanna/ktamanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digitaltwins/ktamanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
